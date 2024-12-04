@@ -1,0 +1,1 @@
+While using Expo CLI, I encountered an error where the development server wouldn't start, and the logs didn't provide any helpful information. The error was intermittent, occurring only after a certain sequence of actions or after a period of inactivity.  I had tried standard troubleshooting steps like restarting my computer and clearing the cache, but nothing seemed to work.
